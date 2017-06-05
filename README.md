@@ -1,1 +1,1 @@
-# health_care_privacy_public
+# Public repository for a semester project about health care data privacy
