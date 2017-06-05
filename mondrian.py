@@ -48,7 +48,7 @@ def recode(partition, columns):
     return part
 
 
-def anonymize(partition, columns, k, ranges=None):
+def anonymize(partition, columns, k):
     """
     A top-down greedy algorithm for strict multidimensional partitioning
     
